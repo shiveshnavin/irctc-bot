@@ -1,5 +1,5 @@
 # irctc-bot
-Research on IRCTC
+Research on IRCTC. Why can't normal people book tatkal tickets? 
 
 # Booking curls
   
