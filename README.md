@@ -2,20 +2,7 @@
 Research on IRCTC
 
 # Booking curls
-
-<details>
-
-# irctc-bot
-Research on IRCTC
-
-# Booking curls
-
-<details>
-  # irctc-bot
-Research on IRCTC
-
-# Booking curls
-
+  
 <details>
 
 curl 'https://www.irctc.co.in/eticketing/protected/mapps1/altAvlEnq/TC' \
